@@ -11,7 +11,7 @@ How to use<br>
 
 Demo<br>
 ===
-![demo](https://github.com/YaoZhontian/YOLOv2-test-with-TensorFlow/demo/demo.jpg)<br>
+![demo](https://github.com/YaoZhontian/YOLOv2-test-with-TensorFlow/demo/demo_1.gif)<br>
 ![demo](https://github.com/YaoZhongtian/YOLOv2-test-with-TensorFlow/raw/master/demo/demo.jpg)<br>
 
 Reference<br>
