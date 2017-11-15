@@ -430,6 +430,7 @@ def show_pic(img_set,save_picture,show_picture):
             cv2.imshow('pic%d'%i,img_set[i])
             cv2.waitKey(0)
 
+
 def main():
     # configure
     batch_size = cfg.batch_size
