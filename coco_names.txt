@@ -2,7 +2,7 @@ person
 bicycle
 car
 motorbike
-aeroplane
+plane
 bus
 train
 truck
