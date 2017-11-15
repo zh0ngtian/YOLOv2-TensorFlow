@@ -9,6 +9,11 @@ How to use<br>
 * Then Edit the configure file `cfg.py`, or use the default configure.<br>
 * Use `python YOLO_coco_test.py` to run.<br>
 
+Demo<br>
+===
+![demo](https://github.com/YaoZhontian/YOLOv2-test-with-TensorFlow/demo/demo_1.gif)<br>
+![demo](https://github.com/YaoZhongtian/YOLOv2-test-with-TensorFlow/tree/master/demo/demo_1.gif)<br>
+
 Reference<br>
 ===
 [pjreddie/darknet](https://github.com/pjreddie/darknet)<br>
